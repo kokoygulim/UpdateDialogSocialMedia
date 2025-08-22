@@ -1,0 +1,28 @@
+{
+  "dialogConfig": {
+    "enabled": false,
+    "appVersionCode": "2.0",
+    "mandatory": true,
+    "update_url": "https://t.me/androidmod_ar",
+    "title": "Update Available!",
+    "message": "A new version of the app has been released. Please update now to take advantage to use the app in offline mode. ",
+    "socialLinks": [
+      {
+        "name": "facebook",
+        "url": "https://t.me/androidmod_ar"
+      },
+      {
+        "name": "twitter",
+        "url": "https://t.me/androidmod_ar"
+      },
+      {
+        "name": "instagram",
+        "url": "https://t.me/BoatingPh"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://t.me/androidmod_ar"
+      }
+    ]
+  }
+}

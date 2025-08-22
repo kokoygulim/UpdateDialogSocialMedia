@@ -1,7 +1,7 @@
 {
   "dialogConfig": {
     "enabled": true,
-    "appVersionCode": "17.0.2",
+    "appVersionCode": "17.0.3",
     "mandatory": true,
     "update_url": "https://t.me/androidmod_ar",
     "title": "Update Available!",

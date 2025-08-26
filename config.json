@@ -1,7 +1,7 @@
 {
   "dialogConfig": {
     "enabled": true,
-    "appVersionCode": "17.0.562",
+    "appVersionCode": "18.0.562",
     "mandatory": false,
     "update_url": "https://www.dropbox.com/scl/fi/t39p21qz7o2f8y3w0dhts/Boating.17.0.2.offline.login.2.apk?rlkey=47onoh67vf2xerrblyrdee4kr&st=c3zkryuw&dl=1",
     "title": "Update Available!",
